@@ -1,0 +1,34 @@
+.pTitle {
+    font-size: 22px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.pCapital {
+    font-size: 14px;
+    font-weight: 500;
+    /* color: #798086; */
+    color: #3A8FB7;
+    margin-bottom: 16px;
+}
+
+.pCapital::before {
+    content: "▌";
+    color: #3A8FB7;
+}
+
+.pText {
+    font-size: 16px;
+    color: #000;
+    margin: 0 0 60px 0;
+    /* font-weight: 500; */
+}
+
+.img-responsive {
+    margin-bottom: 60px;
+}
+
+.margin60 {
+    margin-bottom: 60px;
+}
