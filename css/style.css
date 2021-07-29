@@ -49,7 +49,9 @@
                 background: rgba(0, 0, 0, 0.7);
                 content: "";
             }
-            
+            ol{
+                padding-left: 20px;
+            }
             a {
                 color: #999;
                 -webkit-transition: 0.5s;
